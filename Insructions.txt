@@ -1,0 +1,13 @@
+Documentation: 
+https://www.lfd.uci.edu/~gohlke/pythonlibs/
+------
+
+
+CD to folder where pyaudio.whl is.
+
+pip install PyAudio-0.2.11-cp37-cp37m-win32.whl --user
+
+then install pyaudio:
+
+pip install pyaudio 
+
